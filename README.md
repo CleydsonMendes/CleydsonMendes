@@ -31,7 +31,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
     </td>
     <td align="center" width="96">
       <a href="https://www.sas.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/CleydsonMendes/CleydsonMendes/main/sas.png" width="48" height="48" alt="SAS" />
+        <img src="https://github.com/CleydsonMendes/CleydsonMendes/blob/main/sas.png" width="48" height="48" alt="SAS" />
       </a>
       <br>SAS
     </td>
