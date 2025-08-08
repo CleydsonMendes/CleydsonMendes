@@ -48,6 +48,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
     </td>
      <td align="center" width="96">
       <a href="https://powerbi.microsoft.com/" target="_blank">
+        <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="48" height="48" alt="PostgreSQL" />
       </a>
       <br>Power BI
     </td>
@@ -79,6 +80,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
     </td>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
+        <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Excel.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Excel
     </td>
@@ -110,4 +112,5 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
   <a href="https://www.linkedin.com/in/cleydsonmendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:cleydsonsp@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
   <a href="https://github.com/CleydsonMendes" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://discordapp.com/users/cleydsonmendes" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
