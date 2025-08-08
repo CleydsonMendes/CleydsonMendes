@@ -31,6 +31,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
     </td>
     <td align="center" width="96">
       <a href="https://www.sas.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/CleydsonMendes/CleydsonMendes/main/sas.png" width="48" height="48" alt="SAS" />
       </a>
       <br>SAS
     </td>
@@ -48,7 +49,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
     </td>
      <td align="center" width="96">
       <a href="https://powerbi.microsoft.com/" target="_blank">
-        <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="48" height="48" alt="Power BI" />
       </a>
       <br>Power BI
     </td>
@@ -80,7 +81,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
     </td>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
-        <img src="https://github.com/gui-bus/TechIcons/blob/main/Light/Excel.svg" width="48" height="48" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Excel.svg" width="48" height="48" alt="Excel" />
       </a>
       <br>Excel
     </td>
