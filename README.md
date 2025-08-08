@@ -81,7 +81,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais tenho mais experi
     </td>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank">
-        <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/main/Light/Excel.svg" width="48" height="48" alt="Excel" />
+        <img src="https://github.com/CleydsonMendes/CleydsonMendes/blob/main/excel.jpeg" width="48" height="48" alt="Excel" />
       </a>
       <br>Excel
     </td>
