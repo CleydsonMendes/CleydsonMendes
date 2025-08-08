@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[URL_DO_SEU_AVATAR_AQUI](https://github.com/CleydsonMendes/CleydsonMendes/blob/main/avatar.jpg?raw=true)" width="200px" alt="Avatar do Cleydson Mendes"/>
+  <img src="https://github.com/CleydsonMendes/CleydsonMendes/blob/main/avatar.jpg?raw=true" width="200px" alt="Avatar do Cleydson Mendes"/>
   <h1>Olá! Sou o Cleydson Mendes 👋</h1>
 </div>
 
