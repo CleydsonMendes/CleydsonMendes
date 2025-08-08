@@ -12,7 +12,9 @@ Sou um profissional com mais de 10 anos de experiência, com uma trajetória mar
 Minha paixão é ser a ponte entre o negócio e a tecnologia, utilizando dados para otimizar a performance, mitigar riscos e construir soluções que geram impacto real. Tenho sólida experiência em projetos na nuvem **AWS**, na construção de **ETL para pipelines de Dados** e na criação de **dashboards** para suportar decisões estratégicas.
 
 🔭 Atualmente, estou explorando projetos em **Analytics** e aprofundando meus conhecimentos em **modelagem de dados**.
+
 🌱 Estou sempre aprendendo sobre novas tecnologias e boas práticas no universo de dados.
+
 💬 Fique à vontade para me contatar para falarmos sobre dados, finanças ou tecnologia!
 
 ---
