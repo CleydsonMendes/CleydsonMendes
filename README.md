@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um profissional com mais de 10 anos de experiência, com uma trajetória marcada por uma evolução: comecei com uma sólida base em **Finanças, Contas a recber, Crédito e Cobrança**, o que me proporcionou uma profunda compreensão das regras de negócio. Nos últimos anos, direcionei minha carreira para me especializar em **Análise de Dados**.
+Sou um profissional com mais de 10 anos de experiência, com uma trajetória marcada por uma evolução: comecei com uma sólida base em **Finanças, Contas a receber, Crédito e Cobrança**, o que me proporcionou uma profunda compreensão das regras de negócio. Nos últimos anos, direcionei minha carreira para me especializar em **Análise de Dados**.
 
 Minha paixão é ser a ponte entre o negócio e a tecnologia, utilizando dados para otimizar a performance, mitigar riscos e construir soluções que geram impacto real. Tenho sólida experiência em projetos na nuvem **AWS**, na construção de **ETL para pipelines de Dados** e na criação de **dashboards** para suportar decisões estratégicas.
 
